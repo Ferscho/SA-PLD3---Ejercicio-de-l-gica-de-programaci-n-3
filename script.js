@@ -16,5 +16,5 @@ function calcularFactorial() {
       }
 
       // Mostrar el resultado
-      document.getElementById("resultado").textContent = `✅ El factorial de ${numero} es: ${factorial}`;   
+      document.getElementById("resultado").textContent = `El factorial de ${numero} es: ${factorial}`;   
     }
